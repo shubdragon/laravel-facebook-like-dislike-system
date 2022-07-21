@@ -5,5 +5,7 @@ It is a simple facebook like dislike system with sanctum authentication, and cre
 Installation
 
 Install dependencies (composer install)
+
 Set Database Credentials & App Settings in dotenv file (.env)
+
 Migrate Database (php artisan migrate)
